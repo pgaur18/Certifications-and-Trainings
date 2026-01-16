@@ -26,7 +26,7 @@ Each file contains the certificate or training proof in PDF or image format and 
 
 ## 📈 Learning Philosophy
 
-This repository represents a practical approach to learning — building strong fundamentals, continuously exploring new technologies, and applying concepts where possible.
+This repository represents a practical approach to learning — building strong fundamentals, continuously exploring new technologies, and applying concepts through real certifications and trainings.
 
 ---
 

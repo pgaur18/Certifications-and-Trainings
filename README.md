@@ -10,10 +10,10 @@ It reflects a strong mindset of **continuous learning**, **curiosity**, and **re
 
 The purpose of this repository is to:
 
-- Maintain a centralized record of all completed certifications and trainings  
-- Demonstrate ongoing curiosity and commitment to continuous learning  
-- Stay updated with both foundational and emerging technologies  
-- Provide clear, transparent visibility of verified learning for reviewers  
+- Maintain a centralized record of all completed certifications and trainings.  
+- Demonstrate ongoing curiosity and commitment to continuous learning.
+- Stay updated with both foundational and emerging technologies.
+- Provide clear, transparent visibility of verified learning for reviewers.
 
 ---
 
@@ -24,7 +24,7 @@ All certifications and trainings are organized by domain for easy navigation:
 
 
 
-Each folder contains certificates in PDF or image format.
+Each file contains certificates in PDF or image format.
 
 ---
 

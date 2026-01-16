@@ -17,14 +17,10 @@ The purpose of this repository is to:
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Organization
 
-All certifications and trainings are organized by domain for easy navigation:
-
-
-
-
-Each file contains certificates in PDF or image format.
+All certifications and trainings are uploaded directly in this repository.  
+Each file contains the certificate or training proof in PDF or image format and is named clearly for easy reference.
 
 ---
 
